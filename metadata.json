@@ -1,0 +1,8 @@
+{
+  "name": "Ai note",
+  "description": "An intelligent note-taking application powered by Gemini AI and Supabase.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
